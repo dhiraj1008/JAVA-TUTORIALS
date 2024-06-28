@@ -1,8 +1,7 @@
-# JAVA-TUTORIALS
+# JAVA-TUTORIAL
 ### Master core Java concepts and Java GUI 
-
-## This is a detailed breakdown of Core Java and GUI with Java tutorials with each topic:
-
+##### "GUI_IN_JAVA" = covers GUI concepts with Java and "JavaTutorail1 (1).ipynb" = covers core java concepts
+## This is a detailed breakdown of Core Java and GUI with Java tutorial with each topic:
 # 1 Java tutorial for beginners ☕
 # 2 variables ❌   
 # 3 swap two variables 💱
