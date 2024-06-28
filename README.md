@@ -1,4 +1,4 @@
-### Master core Java concepts and Java GUI 
+##### Master core Java concepts and Java GUI 
 ##### "GUI_IN_JAVA" = covers GUI concepts with Java and "JavaTutorail1 (1).ipynb" = covers core java concepts
 ## This is a detailed breakdown of Core Java and GUI with Java tutorial with each topic:
 # 1 Java tutorial for beginners ☕
